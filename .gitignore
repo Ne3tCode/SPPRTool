@@ -1,0 +1,7 @@
+*.o
+*.obj
+*.exe
+*.bin
+*.bat
+Makefile.all
+tests/
