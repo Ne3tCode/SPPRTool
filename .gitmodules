@@ -1,0 +1,8 @@
+[submodule "3rdparty/OSW"]
+	path = 3rdparty/OSW
+	url = git@github.com:m4dEngi/open-steamworks.git
+	branch = master
+[submodule "3rdparty/scrypt-jane"]
+	path = 3rdparty/scrypt-jane
+	url = git@github.com:floodyberry/scrypt-jane.git
+	branch = master
